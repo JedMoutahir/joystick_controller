@@ -9,6 +9,9 @@
 Create a small ros package with a node that will receive the joystick data and
 send corresponding commands to the simulated robot.
 
+see [Assignment](HW1/01-Homework.pdf)
+
+
 ### Starting the simulation
 
 first starting the simulated robot :
