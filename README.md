@@ -1,5 +1,9 @@
 # ROS 2 Joystick Controller
 
+## Author
+[Moutahir Jed](https://github.com/JedMoutahir)
+
+
 ### Task
 
 Create a small ros package with a node that will receive the joystick data and
