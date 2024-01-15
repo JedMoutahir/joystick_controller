@@ -14,12 +14,13 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='jmoutahi',
-    maintainer_email='jmoutahi@todo.todo',
+    maintainer_email='moutahirjed@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "test_joystick_node = joystick_controller.joystick_node:main"
         ],
     },
 )
